@@ -1,1 +1,2 @@
 # PracticasArduinoSistemasDigitales
+### Use arduino UNO
